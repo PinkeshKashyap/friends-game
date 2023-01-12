@@ -58,7 +58,7 @@ for(var i=0; i<quizQues.length; i++){
 var highscore = 9;
 if(highscore <= score){
   highscore = score;
-  console.log("YAYY!! now " + userName + " has a highscore.");
+  console.log("YAYY!! now " + userName + " has a highscore. Congratulations");
   console.log(userName+": "+ score)
 }
 else{

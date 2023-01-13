@@ -1,3 +1,4 @@
+//variable initialization
 var readlineSync = require("readline-sync");
 var score = 0;
 var userName = readlineSync.question("What is your Name? ");
